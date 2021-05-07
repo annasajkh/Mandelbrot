@@ -16,4 +16,5 @@ and you can run it
 it will generate random mandelbrot yeah
 
 prety much i just translate coding train tutorial to java\
+and juat a feature\
 https://youtu.be/6z7GQewK-Ks
