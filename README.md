@@ -12,3 +12,5 @@ the jar should be in\
 desktop/build/libs\
 and you can run it
 
+# RandomMandelbrot
+it will generate random mandelbrot yeah
